@@ -9,6 +9,7 @@ Primeiramente segue um exemplo de diagrama de blocos:
 A SEGUIR O CÓDIGO:
 
 ![imagem_2022-10-14_155110101](https://user-images.githubusercontent.com/108031562/195919820-71a6e54c-07c2-4521-83e8-72d64c9e98d9.png)
+
 Fonte: Feito por Lucas Cappra
 
 
@@ -19,10 +20,12 @@ Nota-se que ocorre uma conversão dos pontos x,y,z para inteiros. Para trabalham
 A SEGUIR O DIAGRAMA DE BLOCOS NO LABVIEW:
 
 ![imagem_2022-10-14_155726788](https://user-images.githubusercontent.com/108031562/195920813-54a609ec-d269-428d-940c-f6ed57901ec8.png)
+
 Fonte: Feito por Lucas Cappra
 
 
 A SEGUIR O FRONT PANEL NO LABVIEW:
 
 ![imagem_2022-10-14_155810999](https://user-images.githubusercontent.com/108031562/195920940-35071aff-6833-4018-88fc-2a50703c1a85.png)
+
 Fonte: Feito por Lucas Cappra
