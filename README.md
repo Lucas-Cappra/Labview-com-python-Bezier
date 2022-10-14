@@ -5,7 +5,7 @@ Utilizando-se o LabVIEW, na parte de diagrama de blocos:
 
 2) Inicia o Python Node, importando o diretório do código a ser usado como função;
 
-2.2) O "return type" pode ser referido como uma DBL Numeric Constant;
+2.2) O "return type" pode ser referido como uma DBL Numeric Constant, string, etc.;
 
 2.3) Se dá o nome da função;
 
@@ -15,6 +15,7 @@ Utilizando-se o LabVIEW, na parte de diagrama de blocos:
 
 3) Encerra-se a sessão de python.
 
+Exemplo com o conversor de celsius para fahrenheit:
 Visão do Block Diagram:
 
 ![imagem_2022-10-13_160055049](https://user-images.githubusercontent.com/108031562/195684592-0c6c6ed6-6a95-4410-88cc-af1f654f5abb.png)
