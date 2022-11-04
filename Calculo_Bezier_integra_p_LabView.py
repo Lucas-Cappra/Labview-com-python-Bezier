@@ -1,3 +1,6 @@
+#=================Author=======================#
+#       Lucas Cappra
+#==============================================#
 
 def Curva_Bezier(CX1,CX2,CX3,CX4, CY1, CY2, CY3, CY4,):
     CX1,CX2,CX3,CX4, CY1,CY2,CY3,CY4 = float(CX1), float(CX2), float(CX3), float(CX4), float(CY1), float(CY2), float(CY3), float(CY4)  
